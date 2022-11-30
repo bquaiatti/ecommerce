@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Dell Latitude",
+      "price": 890.99,
+      "imgUrl": "/imgs/dell.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro",
+      "price": 1199,
+      "imgUrl": "/imgs/macb.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Toshiba",
+      "price": 699.99,
+      "imgUrl": "/imgs/toshiba1.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Lenovo V15",
+      "price": 600,
+      "imgUrl": "/imgs/lenovo.jpeg"
+    }
+  ]
